@@ -1,0 +1,6 @@
+aws_region     = "us-east-1"
+aws_profile    = "default"
+instance_ami   = "ami-0dcc1e21636832c5d"
+instance_type  = "t3.micro"
+aws_access_key = "test"
+aws_secret_key = "test"
